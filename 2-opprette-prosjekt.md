@@ -13,6 +13,6 @@
 9. Nå er prosjektet opprettet, bruk `cd dittProsjektnavn` for å gå inn i prosjektet ditt.
     - eks: `cd boksiden`
 10. Skriv `sanity start` for å starte prosjektet ditt
-11. Åpne nettleseren din, og gå inn på nettsiden "http://localhost:333" for å se prosjektet ditt.
+11. Åpne nettleseren din, og gå inn på nettsiden "http://localhost:3333" for å se prosjektet ditt.
 
 Akkurat nå er prosjektet tomt, i neste kapittel skal vi definere en databasestruktur, slik at vi kan fylle databasen vår med data.
