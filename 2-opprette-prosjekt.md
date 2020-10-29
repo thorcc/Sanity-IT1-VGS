@@ -15,4 +15,6 @@
 10. Skriv `sanity start` for å starte prosjektet ditt
 11. Åpne nettleseren din, og gå inn på nettsiden "http://localhost:3333" for å se prosjektet ditt.
 
+<img src="./bilder/tomt-prosjekt.png" width="400">
+
 Akkurat nå er prosjektet tomt, i neste kapittel skal vi definere en databasestruktur, slik at vi kan fylle databasen vår med data.
